@@ -14,7 +14,7 @@
 
 - <img src="https://img.icons8.com/officexs/20/000000/school.png"/> I hope to further develop these and many other skills during my postgraduate studies in Software Testing.
 
-- <img src="https://img.icons8.com/officexs/20/000000/cat.png"/> I'm an owner of an awesome cat called **Mirabela**.
+- <img src="https://img.icons8.com/officexs/20/000000/cat.png"/> I'm an owner of an awesome cat named **Mirabela**.
 
 - 📫 In case you want to reach out to me here's my email address: **rabenda.agata@gmail.com**
 
